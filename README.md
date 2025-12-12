@@ -93,19 +93,6 @@ You: Search for latest Python news
 Assistant: [Agent uses DuckDuckGo to search and summarize results]
 ```
 
-## Project Structure
-
-```
-mydemo/
-├── app.py                 # Main application with interactive chat
-├── main.py                # Simple entry point
-├── browser_mcp.json       # MCP server configuration
-├── pyproject.toml         # Python project configuration
-├── package.json           # Node.js dependencies
-├── uv.lock               # Dependency lock file
-└── README.md             # This file
-```
-
 ## MCP Servers
 
 This project integrates with the following MCP servers:
